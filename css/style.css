@@ -1,0 +1,9 @@
+ footer {
+    background-color: #72706e ;
+    color: #ffffff;
+   
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
