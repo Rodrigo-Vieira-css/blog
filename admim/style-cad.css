@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  background: url("../images/teste3.jpg")center;
+  background-repeat: no-repeat;
+}
+.container {
+  height: 30rem;
+  width: 25rem;
+  margin-left: 30rem;
+  background: rgba( 255, 255, 255, 0.35 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 20px );
+  -webkit-backdrop-filter: blur( 20px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.form-label{
+    margin-left: -19rem;
+    font-size: 17px;
+}
+h3                                                                                                                                             {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
