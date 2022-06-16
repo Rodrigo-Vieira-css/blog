@@ -25,7 +25,7 @@
 				</h3>
 				<div class="mb-3">
 					<label for="exampleInputEmail1" class="form-label">Nome</label>
-					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ex:.Rodrigo" name="login">
+					<input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ex:.Rodrigo" name="nome">
 				</div>
 				<div class="mb-3">
 					<label for="exampleInputEmail1" class="form-label">Email</label>

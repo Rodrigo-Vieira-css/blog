@@ -6,7 +6,7 @@
 </svg></a>
 	    </p>
 	    <p class="mb-1">Todos os Direitos Reservados...</p>
-	    <p class="mb-0">Ícones das Redes Sociais.</p>
+	    <p class="mb-0"> <a href="https://www.instagram.com/" target="_blank"><img src="./images/instagram.png" alt=""></a></p>
 	  </div>
 	</footer>
 
